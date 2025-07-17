@@ -25,13 +25,6 @@
 [![Status](https://img.shields.io/badge/Status-ACTIVE-brightgreen.svg?style=for-the-badge&labelColor=000000)]()
 [![AI](https://img.shields.io/badge/AI-POWERED-ff69b4.svg?style=for-the-badge&labelColor=000000)]()
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=header&text=🔥 REVOLUTIONARY AI EDUCATION 🔥&fontSize=30&fontColor=ffffff&animation=twinkling" />
-</div>
-
-<img width="60%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-</div>
 
 ---
 
@@ -52,7 +45,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=💎 POWERED BY ADVANCED AI 💎&fontSize=25&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -115,9 +107,7 @@
 <div align="center">
 
 ### 📊 **System Workflow**
-<img src="./eduflex_workflow.png" alt="EduFlex Workflow" width="80%">
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100">
+<img src="./eduflex_workflow.png" alt="EduFlex Workflow" width="40%">
 
 </div>
 
@@ -146,7 +136,6 @@ graph TD
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=🚀 GET STARTED NOW! 🚀&fontSize=30&fontColor=ffffff&animation=blink" />
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
 
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=600&height=60&lines=⚡+LIGHTNING+FAST+SETUP+⚡;🔥+INSTANT+DEPLOYMENT+🔥;💎+ZERO+CONFIGURATION+💎" alt="Quick Start Header" />
@@ -297,15 +286,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=⭐ STAR THIS REPOSITORY! ⭐&fontSize=30&fontColor=ffffff&animation=blink" />
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=🌟+IF+YOU+FOUND+IT+HELPFUL!+🌟;💎+SUPPORT+THE+PROJECT!+💎;🚀+JOIN+THE+COMMUNITY!+🚀" alt="Star Message" />
+</h2>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=🌟+IF+YOU+FOUND+IT+HELPFUL!+🌟;💎+SUPPORT+THE+PROJECT!+💎;🚀+JOIN+THE+COMMUNITY!+🚀" alt="Star Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=⭐ STAR THIS REPOSITORY! ⭐" alt="Star Message" />
 </h3>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="400">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27,33&height=60&section=header&text=💖 MADE WITH LOVE BY SHYNNEMI 💖&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=💖 MADE WITH LOVE BY SHYNNEMI 💖" alt="Star Message" />
+</h2>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer" />
 
