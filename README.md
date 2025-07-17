@@ -254,7 +254,7 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,4,29&height=80&section=header&text=%F0%9F%8C%9F%20CONTACT%20THE%20CREATOR%20%F0%9F%8C%9F&fontSize=25&fontColor=ffffff&animation=twinkling%22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,4,29&height=80&section=header&text=%F0%9F%8C%9F%20CONTACT%20THE%20CREATOR%20%F0%9F%8C%9F&fontSize=25&fontColor=000000&animation=twinkling" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=1000&height=100&lines=👨‍💻+CREATED+BY:+SHYNNEMI+🚀;💎+MASTERMIND:+SHYNNEMI+✨;🌟+ARCHITECT:+SHYNNEMI+⚡;🔥+GENIUS:+SHYNNEMI+🎯" alt="Creator Name" />
