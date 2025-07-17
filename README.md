@@ -260,6 +260,14 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=1000&height=100&lines=👨‍💻+CREATED+BY:+SHYNNEMI+🚀;💎+MASTERMIND:+SHYNNEMI+✨;🌟+ARCHITECT:+SHYNNEMI+⚡;🔥+GENIUS:+SHYNNEMI+🎯" alt="Creator Name" />
 </h1>
 
+<div align="center">
+
+<h1>
+mail: Nguyentrongphuoc.ai@gmail.com
+</h1>
+
+</div>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&height=50&lines=🔥+MASTER+DEVELOPER+🔥;💎+AI+SPECIALIST+💎;⚡+INNOVATION+EXPERT+⚡" alt="Creator Title" />
 
 [![Email](https://img.shields.io/badge/Email-nguyentrongphuocbh.ai@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:nguyentrongphuocbh.ai@gmail.com)
