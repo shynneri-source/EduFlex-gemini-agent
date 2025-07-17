@@ -297,7 +297,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=💖 MADE WITH LOVE BY SHYNNEMI 💖" alt="Star Message" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%92%96%20MADE%20WITH%20LOVE%20BY%20SHYNNEMI%20%F0%9F%92%96" alt="Star Message" />
 </h2>
 
 
