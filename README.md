@@ -5,13 +5,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=800&height=70&lines=🎓+EDUFLEX+AGENT+🚀;💎+EDUFLEX+AGENT+✨;🌟+EDUFLEX+AGENT+⚡;🔥+EDUFLEX+AGENT+🎯" alt="EduFlex Agent Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=800&height=70&lines=🎓+EDUFLEX+AGENT+🚀;💎+EDUFLEX+AGENT+✨;🌟+EDUFLEX+AGENT+⚡;🔥+EDUFLEX+AGENT+🎯" alt="EduFlex Agent Title" />
 </h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=50&lines=🤖+Intelligent+Educational+Assistant;⚡+Powered+by+Advanced+AI;🎯+Personalized+Learning+Experience;🚀+Next-Gen+Education+Technology" alt="Subtitle Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=50&lines=🤖+Intelligent+Educational+Assistant;⚡+Powered+by+Advanced+AI;🎯+Personalized+Learning+Experience;🚀+Next-Gen+Education+Technology" alt="Subtitle Animation" />
 </h2>
 
 
@@ -32,7 +32,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%" />
   
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&height=60&lines=🌟+REVOLUTIONARY+OVERVIEW+🌟;✨+CUTTING-EDGE+TECHNOLOGY+✨;🚀+NEXT-GEN+AI+EDUCATION+🚀" alt="Overview Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&height=60&lines=🌟+REVOLUTIONARY+OVERVIEW+🌟;✨+CUTTING-EDGE+TECHNOLOGY+✨;🚀+NEXT-GEN+AI+EDUCATION+🚀" alt="Overview Header" />
   </h2>
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%" />
@@ -51,7 +51,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,33,4,29&height=4" width="100%" />
   
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=20B2AA&center=true&vCenter=true&width=600&height=60&lines=🚀+INCREDIBLE+FEATURES+⚡;💎+AMAZING+CAPABILITIES+✨;🔥+NEXT-LEVEL+EDUCATION+🎯" alt="Features Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=20B2AA&center=true&vCenter=true&width=600&height=60&lines=🚀+INCREDIBLE+FEATURES+⚡;💎+AMAZING+CAPABILITIES+✨;🔥+NEXT-LEVEL+EDUCATION+🎯" alt="Features Header" />
   </h2>
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,33,4,29&height=4" width="100%" />
@@ -95,7 +95,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,27,33&height=4" width="100%" />
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=700&height=60&lines=⚡+SYSTEM+ARCHITECTURE+🔧;🏗️+WORKFLOW+VISUALIZATION+📊;💻+CUTTING-EDGE+DESIGN+🎨" alt="Architecture Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=700&height=60&lines=⚡+SYSTEM+ARCHITECTURE+🔧;🏗️+WORKFLOW+VISUALIZATION+📊;💻+CUTTING-EDGE+DESIGN+🎨" alt="Architecture Header" />
 </h2>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,27,33&height=4" width="100%" />
@@ -134,11 +134,9 @@ graph TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=🚀 GET STARTED NOW! 🚀&fontSize=30&fontColor=ffffff&animation=blink" />
-
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=600&height=60&lines=⚡+LIGHTNING+FAST+SETUP+⚡;🔥+INSTANT+DEPLOYMENT+🔥;💎+ZERO+CONFIGURATION+💎" alt="Quick Start Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=600&height=60&lines=⚡+LIGHTNING+FAST+SETUP+⚡;🔥+INSTANT+DEPLOYMENT+🔥;💎+ZERO+CONFIGURATION+💎" alt="Quick Start Header" />
 </h2>
 </div>
 
@@ -259,10 +257,10 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,4,29&height=80&section=header&text=🌟 CONTACT THE CREATOR 🌟&fontSize=25&fontColor=ffffff&animation=twinkling" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=1000&height=100&lines=👨‍💻+CREATED+BY:+SHYNNEMI+🚀;💎+MASTERMIND:+SHYNNEMI+✨;🌟+ARCHITECT:+SHYNNEMI+⚡;🔥+GENIUS:+SHYNNEMI+🎯" alt="Creator Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=60&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=1000&height=100&lines=👨‍💻+CREATED+BY:+SHYNNEMI+🚀;💎+MASTERMIND:+SHYNNEMI+✨;🌟+ARCHITECT:+SHYNNEMI+⚡;🔥+GENIUS:+SHYNNEMI+🎯" alt="Creator Name" />
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&height=50&lines=🔥+MASTER+DEVELOPER+🔥;💎+AI+SPECIALIST+💎;⚡+INNOVATION+EXPERT+⚡" alt="Creator Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&height=50&lines=🔥+MASTER+DEVELOPER+🔥;💎+AI+SPECIALIST+💎;⚡+INNOVATION+EXPERT+⚡" alt="Creator Title" />
 
 [![Email](https://img.shields.io/badge/Email-nguyentrongphuocbh.ai@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:nguyentrongphuocbh.ai@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shynnemi-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/shynnemi)
@@ -287,21 +285,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=🌟+IF+YOU+FOUND+IT+HELPFUL!+🌟;💎+SUPPORT+THE+PROJECT!+💎;🚀+JOIN+THE+COMMUNITY!+🚀" alt="Star Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=🌟+IF+YOU+FOUND+IT+HELPFUL!+🌟;💎+SUPPORT+THE+PROJECT!+💎;🚀+JOIN+THE+COMMUNITY!+🚀" alt="Star Message" />
 </h2>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=⭐ STAR THIS REPOSITORY! ⭐" alt="Star Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=⭐+STAR+THIS+REPOSITORY!+⭐" alt="Star Message" />
 </h3>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="400">
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="400">
+</p>
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=💖 MADE WITH LOVE BY SHYNNEMI 💖" alt="Star Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=💖+MADE+WITH+LOVE+BY+SHYNNEMI+💖" alt="Star Message" />
 </h2>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer" />
 
