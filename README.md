@@ -288,9 +288,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=🌟+IF+YOU+FOUND+IT+HELPFUL!+🌟;💎+SUPPORT+THE+PROJECT!+💎;🚀+JOIN+THE+COMMUNITY!+🚀" alt="Star Message" />
 </h2>
 
-<h3>
+<h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=⭐ STAR THIS REPOSITORY! ⭐" alt="Star Message" />
-</h3>
+</h2>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="400">
