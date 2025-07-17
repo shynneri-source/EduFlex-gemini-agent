@@ -289,7 +289,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </h2>
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=⭐ STAR THIS REPOSITORY! ⭐" alt="Star Message" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=%E2%AD%90%20STAR%20THIS%20REPOSITORY!%E2%AD%90" alt="Star Message" />
 </h2>
 
 
