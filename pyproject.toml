@@ -1,0 +1,12 @@
+[project]
+name = "backend-eduflex"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=9.4.0",
+    "langchain-openai>=0.3.28",
+    "langgraph>=0.5.3",
+    "python-dotenv>=1.1.1",
+]
